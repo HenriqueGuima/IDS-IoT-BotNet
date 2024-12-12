@@ -1,2 +1,7 @@
-/BoTNeTIoT-L01-v2.csv
-/BotNeTIoT-L01_label_NoDuplicates.csv
+*.csv
+feature_importance_tuning.ipynb
+model_development.ipynb
+model_evaluation.ipynb
+preprocessing.ipynb
+deployment.ipynb
+documentation.TeX
